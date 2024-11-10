@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Developer at Techdome Solutions,<br>I'm looking to collaborate on Web applications,<br>I'm currently learning Rust,<br>I play games in my free time,<br>Fun fact: only people who don't like Minecraft are those who haven't played it.
+I'm a Software Developer at Techdome Solutions,<br>I've Computer Scince engineering degree,<br>I'm currently learning Rust,<br>I play games in my free time,<br>Fun fact: only people who don't like Minecraft are those who haven't played it.
 
 
 ## 🌐 Socials:
@@ -20,6 +20,3 @@ I'm a Software Developer at Techdome Solutions,<br>I'm looking to collaborate on
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<!-- [![](https://visitcount.itsvg.in/api?id=theketan26&icon=2&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
